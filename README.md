@@ -7,6 +7,7 @@ There is a list of NICs (symlinks) in a directory: /sys/class/net
 
 To find out the temperature of the 10G NIC, check the contents of the file: /sys/class/net/eth2/temperature
 
+
 scemd.xml - DS923+ silent fan profile (10 Gbps NIC)
 
 <fan_config period="20" threshold="6" type="DUAL_MODE_LOW" hibernation_speed="UNKNOWN">
