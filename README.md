@@ -9,6 +9,9 @@ To find out the temperature of the 10G NIC, check the contents of the file: /sys
 
 
 scemd.xml - DS923+ silent fan profile (10 Gbps NIC)
+/usr/syno/etc.defaults/scemd.xml
+
+/usr/syno/etc/scemd.xml
 
 <fan_config period="20" threshold="6" type="DUAL_MODE_LOW" hibernation_speed="UNKNOWN">
 	
