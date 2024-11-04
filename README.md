@@ -11,7 +11,7 @@
 </p>
 
 
-## DS923+ silent fan profile (E10G22-T1-Mini 10GbE NIC)
+## DS923+ silent fan profile (E10G22-T1-Mini 10GbE NIC + M.2 NVME SSD read-write cache)
 
 
 <p>
