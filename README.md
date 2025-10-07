@@ -14,11 +14,13 @@
 ## DS923+ silent fan profile (E10G22-T1-Mini 10GbE NIC + M.2 NVME SSD read-write cache)
 
 <p>
+	1.<BR>
 	Set "Fan Speed Mode" in Control panel to "Quiet mode"
 </p>
 
 <p>
-	Update:
+	2.<BR>
+	Update files:<BR>
 	/usr/syno/etc.defaults/scemd.xml<BR>
 	/usr/syno/etc/scemd.xml
 </p>
