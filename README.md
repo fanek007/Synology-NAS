@@ -1,7 +1,7 @@
 # Synology NAS tweaks
 
 
-## Check 10GbE NIC (E10G22-T1-Mini) temperature in DSM 7.2.1
+## Check 10GbE NIC (E10G22-T1-Mini) temperature in DSM 7.2.2
 
 <p>
 	There is a list of NICs in a directory: /sys/class/net<BR>
