@@ -48,6 +48,7 @@
 
                 <cpu_temperature fan_speed="01%40hz" action="NONE">0</cpu_temperature>
                 <cpu_temperature fan_speed="30%40hz" action="NONE">40</cpu_temperature>
+                <cpu_temperature fan_speed="45%40hz" action="NONE">44</cpu_temperature>
                 <cpu_temperature fan_speed="50%40hz" action="NONE">47</cpu_temperature>
                 <cpu_temperature fan_speed="55%40hz" action="NONE">55</cpu_temperature>
                 <cpu_temperature fan_speed="65%40hz" action="NONE">65</cpu_temperature>
@@ -62,4 +63,5 @@
                 <nic_temperature fan_speed="99%40hz" action="NONE">88</nic_temperature>
                 <nic_temperature fan_speed="99%40hz" action="SHUTDOWN">100</nic_temperature>
         </fan_config>
+
 
